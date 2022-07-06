@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2022-05-25T12:17:31.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="TFuH6muZXpXqTtcYUvVJ" version="18.1.1" type="gitlab">
+  <diagram id="Yh3-P6BZOD7VzJGTJqOM" name="Page-1">
+    <mxGraphModel dx="1065" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=8;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-1" target="Vu0L8hsYKq-geMEbXaFV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Running the checklist and looking into the cost and due date for the resources&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459.5" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=8;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-2" target="Vu0L8hsYKq-geMEbXaFV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Intimating the user about due date prior of 2 days&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469.5" y="230" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=8;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-4" target="Vu0L8hsYKq-geMEbXaFV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=8;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-4" target="Vu0L8hsYKq-geMEbXaFV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-4" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;If&amp;nbsp; they need &lt;br&gt;resources and &lt;br&gt;want to extend &lt;br&gt;due date&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="307" width="112.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=8;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-8" target="Vu0L8hsYKq-geMEbXaFV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-8" target="Vu0L8hsYKq-geMEbXaFV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;To get approval from the responsible person through mail loop for decommisioning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465.75" y="471" width="130" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="430" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;To follow with the person for further&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="484.75" width="110" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="601" y="477" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-15" target="Vu0L8hsYKq-geMEbXaFV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=8;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-15" target="Vu0L8hsYKq-geMEbXaFV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-15" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Delete the user&#39;s resource and update the same in resource inventory&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="466.75" y="596" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-17" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="551" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-18" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Also must to intimate the person about decommission of resources in mail loop&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="464.25" y="700" width="133" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-21" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Update the ticket status&lt;br&gt;&amp;nbsp;in portal&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="604.13" width="130" height="47.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=8;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-25" target="Vu0L8hsYKq-geMEbXaFV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=11;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="715" y="440" />
+              <mxPoint x="530" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-25" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Get approval from lead or poc for ETA with cost estimation&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="333.75" width="130" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-27" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="591" y="336.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.441;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=11;" edge="1" parent="1" source="Vu0L8hsYKq-geMEbXaFV-28" target="Vu0L8hsYKq-geMEbXaFV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1013" y="361" />
+              <mxPoint x="1013" y="70" />
+              <mxPoint x="526" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-28" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Update the new ETA in ticket status and inventory too&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="332.5" width="132.5" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-30" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="799" y="336.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0L8hsYKq-geMEbXaFV-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="715" y="403" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
